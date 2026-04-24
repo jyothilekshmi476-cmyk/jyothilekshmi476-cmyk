@@ -1,14 +1,23 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Jyothy Lakshmi</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+%26+Analytics" />
+</p>
+
+<p align="center">
+  📍 Alappuzha, Kerala, India &nbsp; | &nbsp;
+  📧 jyothilekshmi476@gmail.com &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/jyothy-lakshmi-u/">LinkedIn</a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🔍 Passionate and detail-oriented **Data Analyst**
-* 📊 Skilled in **Python, SQL, Excel, and Power BI**
+* 📊 Skilled in **Python, SQL, Excel, Power BI**
 * 🚀 Building real-world analytics projects
 * 🎯 Seeking **Entry-Level Data Analyst opportunities**
 
@@ -29,6 +38,7 @@
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/SEABORN-4C8CBF?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
 ---
@@ -46,8 +56,7 @@
 ### 🩸 Blood Donation Prediction
 
 * Built ML model to predict donor eligibility
-* Performed EDA & data cleaning
-* Tools: Python, Pandas
+* Performed EDA & feature engineering
 
 ### 🎓 Student Exam Score Prediction
 
@@ -56,20 +65,56 @@
 
 ### 📉 Customer Churn Analysis
 
-* Built Power BI dashboard
-* Identified churn patterns & insights
+* Built interactive Power BI dashboard
+* Identified churn patterns
 
 ### 📱 Instagram Engagement Analysis
 
-* Analyzed engagement metrics
-* Found top-performing content trends
+* Analyzed engagement trends
+* Found top-performing content
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Languages
 
-* 📧 Email: [jyothilekshmi476@gmail.com](mailto:jyothilekshmi476@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/jyothy-lakshmi-u/
+English | Malayalam
+
 ---
 
-⭐ *Check out my repositories for more projects!*
+## 🤝 Let's Connect
+
+If you're interested in **Data Analytics, SQL, Excel, or Power BI**, let's collaborate and build impactful data projects 🚀
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyothilekshmi476-cmyk&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothilekshmi476-cmyk&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothilekshmi476-cmyk&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jyothy-lakshmi-u/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jyothilekshmi476@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ *Turning Data into Insights with Data Analytics and Visualization*
+
